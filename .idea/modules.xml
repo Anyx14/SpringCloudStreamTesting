@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringCloudTest.iml" filepath="$PROJECT_DIR$/SpringCloudTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloudTestSink/SpringCloudTestSink.iml" filepath="$PROJECT_DIR$/SpringCloudTestSink/SpringCloudTestSink.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloudTestSource/SpringCloudTestSource.iml" filepath="$PROJECT_DIR$/SpringCloudTestSource/SpringCloudTestSource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCoudTestProcessor/SpringCoudTestProcessor.iml" filepath="$PROJECT_DIR$/SpringCoudTestProcessor/SpringCoudTestProcessor.iml" />
+    </modules>
+  </component>
+</project>
